@@ -1,0 +1,6 @@
+{
+  "name": "AquaSense AI",
+  "description": "AI and IoT-Based Smart Water Quality Monitoring System with real-time ESP32 sensor telemetry, anomaly alerts, analytical reporting, and Gemini AI water quality diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
